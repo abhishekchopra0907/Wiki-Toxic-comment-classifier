@@ -11,7 +11,7 @@ Basically this contains 2 NLP models-
 The dataset here is from wiki corpus dataset which was rated by human raters for toxicity
 The types of toxicity are:
  * toxic
- * severe_toxic
+ * severely_toxic
  * obscene
  * threat
  * insult
